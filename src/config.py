@@ -42,16 +42,13 @@ POSTING_INTERVAL_IN_MIN = 15  # Every 15 Minutes
 SCRAPER_INTERVAL_IN_MIN = 720  # Every 12 hours
 
 # Instagram Username & Password
-USERNAME = "your_username"
-PASSWORD = "your_password"
+USERNAME = "sensei_aka_sigma"
+PASSWORD = "SdGOAT2122011INSTAGRAM"
 
 # Account List for scraping
 ACCOUNTS = [
-    "totalgaming_official",
-    "carryminati",
-    "techno_gamerz",
-    "payalgamingg",
-    "dynamo__gaming"
+    "anime",
+    "trendy.anime"
 ]
 
 # like_and_view_counts_disabled
@@ -61,7 +58,7 @@ LIKE_AND_VIEW_COUNTS_DISABLED = 0
 DISABLE_COMMENTS = 0
 
 # HASHTAGS to add while Posting
-HASHTAGS = "#reels #shorts #likes #follow #Reels-AutoPilot"
+HASHTAGS = "#reels #animeedit #animequotes #motivation #toji #gojoedit #jujutsukaisen #quote #inspiration #inspirationalquotes #sukuna"
 
 #--------------------------------------------------------------------------------------------------#
 # Youtube Configurations                                                                           #
